@@ -8,5 +8,6 @@ public class test {
         System.out.println("hello master");
         System.out.println("hello hot fix");
         System.out.println("hot fix test");
+        System.out.println("idea push");
     }
 }
